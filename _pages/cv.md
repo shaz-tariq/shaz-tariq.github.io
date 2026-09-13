@@ -31,10 +31,10 @@ Work experience
 
 *Gill/Hyde Group (Gene Medicine Group)*
 
-### Evox Therapeutics, Oxford
-**Senior Development Associate** · Jun 2024–Sep 2024
+### Evox Therapeutics
+**Senior Development Associate** · Jun 2023–Sep 2023
 
-**Development Associate** · Jun 2024–Sep 2024
+**Development Associate** · Jul 2022–May 2023
 
 Worked in the downstream process development team, primarily developing and optimising chromatographic processes for extracellular vesicle purification.
 
