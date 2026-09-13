@@ -11,51 +11,40 @@ redirect_from:
 
 Education
 ======
-* DPhil, Advanced Bioscience of Viral Products, 2024 - 2028
-* MSc, Advanced Chemical Engineering with Bioprocessing, University of Birmingham, 2021 - 2022
-* BEng, Chemical Engineering, Aston University, 2016 - 2020
-* Exchange Year, Korea University, 2018 - 2019
+### University of Oxford
+**DPhil, Advanced Bioscience of Viral Products** · 2024–2028
+
+### University of Birmingham
+**MSc, Advanced Chemical Engineering with Bioprocessing** · 2021–2022
+
+### Aston University
+**BEng, Chemical Engineering** · 2016–2020
+
+### Korea University
+**Exchange Year, Chemical Engineering** · 2018–2019
 
 Work experience
 ======
-* Research Assistant in Gene Therapy, Sep. 2023 - Sep. 2024
-  * University of Oxford
-  * Research Group: Gill/Hyde (Gene Medicine Group) 
 
-* Senior Development Associate, June. 2024 - Sep. 2024
-  * Evox Therapeutics, Oxford
-  * Role Description: downstream process development for extracellular vesicles purification
+### University of Oxford
+**Research Assistant, Gene Therapy** · Sep 2023–Sep 2024  
+*Gill/Hyde Group (Gene Medicine Group)*
 
-* Development Associate, June. 2024 - Sep. 2024
-  * Evox Therapeutics, Oxford
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Evox Therapeutics, Oxford
+**Senior Development Associate** · Jun 2024–Sep 2024
+
+**Development Associate** · Jun 2024–Sep 2024
+
+Downstream process development for extracellular vesicle purification.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
