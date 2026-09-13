@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* DPhil, Advanced Bioscience of Viral Products, 2024 - 2028
+* MSc, Advanced Chemical Engineering with Bioprocessing, University of Birmingham, 2021 - 2022
+* BEng, Chemical Engineering, Aston University, 2016 - 2020
+* Exchange Year, Korea University, 2018 - 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant in Gene Therapy, Sep. 2023 - Sep. 2024
+  * University of Oxford
+  * Research Group: Gill/Hyde (Gene Medicine Group) 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Senior Development Associate, June. 2024 - Sep. 2024
+  * Evox Therapeutics, Oxford
+  * Role Description: downstream process development for extracellular vesicles purification
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Development Associate, June. 2024 - Sep. 2024
+  * Evox Therapeutics, Oxford
   
 Skills
 ======
