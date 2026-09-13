@@ -18,7 +18,7 @@ Education
 *MSc, Advanced Chemical Engineering with Bioprocessing* · 2021–2022
 
 ### Aston University
-*BEng, Chemical Engineering** · 2016–2020
+*BEng, Chemical Engineering* · 2016–2020
 
 ### Korea University
 *Exchange Year* · 2018–2019
@@ -28,6 +28,7 @@ Work experience
 
 ### University of Oxford
 **Research Assistant** · Sep 2023–Sep 2024  
+
 *Gill/Hyde Group (Gene Medicine Group)*
 
 ### Evox Therapeutics, Oxford
